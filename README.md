@@ -1,2 +1,2 @@
 # tail
-Unix tail in its simplest form, just for fun
+Unix tail in its simplest form, just for fun.
